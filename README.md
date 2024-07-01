@@ -38,9 +38,8 @@ npm run build
 
 This should create a production bundle for your extension, ready to be zipped and published to the stores.
 
-# DEMO VIDEO
+## DEMO VIDEO
 
-
-https://github.com/Dhiman1241/chrome-extension-boilerplate/blob/main/assets/screenrecording.mov
+![Application Demo](./assets/screenrecording.mov)
 
 
