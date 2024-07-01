@@ -1,24 +1,14 @@
 # dependencies
-node_modules
-.pnp
+/node_modules
+/.pnp
 .pnp.js
 
 # testing
-coverage
-
-# next.js
-.next/
-out/
-build
-dist/
-
-# electron bundle
-**/resources/app
+/coverage
 
 # misc
 .DS_Store
 *.pem
-.idea
 
 # debug
 npm-debug.log*
@@ -27,9 +17,21 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # local env files
-.env*.local
+.env*
 
-# turbo
-.turbo
+out/
+build/
+dist/
 
+# plasmo
+.plasmo
+
+# typescript
 .tsbuildinfo
+
+
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+
+.turbo
