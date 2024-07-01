@@ -40,6 +40,6 @@ This should create a production bundle for your extension, ready to be zipped an
 
 ## DEMO VIDEO
 
-![Application Demo](./assets/screenrecording.mov)
+https://www.loom.com/share/9109619c231d4af08991ec9c2913da3b
 
 
